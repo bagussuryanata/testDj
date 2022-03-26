@@ -1,0 +1,63 @@
+PERTAMANYA SCMU KAYAK GINI BRO 
+
+
+public class AudioData
+{
+  public AudioData(byte[] bytes)
+  {
+    this.bytes = bytes;
+  }
+
+  public byte[] bytes;
+
+  public static String AudiList = "" +
+          "{\"data_app\":[" +
+              "{\"file_location\":\"https://vgmsite.com/soundtracks/digimon-themes/zzwbrvtq/01%20-%20Beat%20Hit%21.mp3\",\"file_name\":\"Beat Hit\"}," +
+              "{\"file_location\":\"https://vgmsite.com/soundtracks/digimon-themes/xrieezej/01%20-%20Brave%20Heart.mp3\",\"file_name\":\"Brave Heart\"}," +
+              "{\"file_location\":\"https://vgmsite.com/soundtracks/digimon-1-02-tamers-songs/bizarkmv/Digimon%2002%20OST%20-%20Break%20Up%21%20%28Evo%20Theme%29.mp3\",\"file_name\":\"Break Up\"}," +
+              "{\"file_location\":\"https://vgmsite.com/soundtracks/digimon-1-02-tamers-songs/nurctddy/Digimon%2002%20OST%20-%20Target%20%28Opening%29.mp3\",\"file_name\":\"Target - Opening\"}," +
+              "{\"file_location\":\"https://vgmsite.com/soundtracks/digimon-1-02-tamers-songs/smuvjjwv/Digimon%201%20OST%20-%20Butterfly%20%28Opening%29.mp3\",\"file_name\":\"Butterfly - Opening\"}" +
+
+          "]}" +
+          "";
+}
+
+
+
+
+
+
+TERUS AKU RUBAH JADI GINI :
+
+
+
+public class AudioData
+{
+  public AudioData(byte[] bytes)
+  {
+    this.bytes = bytes;
+  }
+
+  public byte[] bytes;
+
+  public static String AudiList = "" +
+          "{\"data_app\":[" +
+              "{\"file_location\":\"https://www.mediafire.com/file/y0ca42dilnvgt4u/Egzod__Paper_Crowns_feat_Leo_The_Kind_NCS_Release.mp3/file\",\"file_name\":\"Egzod Paper Crowns Feat Leo The Kind Ncs Release\"}," +
+              "{\"file_location\":\"https://www.mediafire.com/file/nq7tj53dzty6btg/Electric_Joy_Ride__Origin_NCS_Release.mp3/file\",\"file_name\":\"Electric Joy Ride Origin Ncs Release\"}," +
+              "{\"file_location\":\"https://www.mediafire.com/file/2aalqfxdqma4zg0/ElectroLight__Jordan_Kelvin_James__Wait_For_You_feat_Anna_Yvette_NCS_Release.mp3/file\",\"file_name\":\"Electro Light Jordan Kelvin James Wait For You Feat Anna Yvette Ncs Release\"}," +
+              "{\"file_location\":\"https://www.mediafire.com/file/0jpg5hmcp6wmc05/ElectroLight__Fall_For_Gravity_feat_Nathan_Brumley_NCS_Release.mp3/file\",\"file_name\":\"Electro Light Fall For Gravity Feat Nathan Brumley Ncs Release\"}," +
+              "{\"file_location\":\"https://www.mediafire.com/file/ejymaxpgpb1ehl2/Electro_Light_feat_Iain_Mannix__Clearly_Venemy_Remix_NCS_Release.mp3/file\",\"file_name\":\"Electro Light Feat Iain Mannix Clearly Venemy Remix\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/jplwz6z237a75fa/Here_We_Fcking_Go_OUT_NOW.mp3/file\",\"file_name\":\"Here We Fking Go\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/g4bu7goi6tmd9ch/Howl_At_The_Moon.mp3/file\",\"file_name\":\"Howl at the moon\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/l2yl5aviqm486pr/Kontiki_Original_Mix.mp3/file\",\"file_name\":\"Kontiki\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/1dpiblw5qoklkys/Left_Behinds_OUT_NOW.mp3/file\",\"file_name\":\"Left Behind\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/uv558mp6knhcyb6/Living_With_Regret_NCS_Release.mp3/file\",\"file_name\":\"Living with regret\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/csh804exj5xfql5/My_Love_NCS_Release.mp3/file\",\"file_name\":\"My Love\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/8hczqqojk1fnndb/Paradox.mp3/file\",\"file_name\":\"Paradox\"}" +
+              "{\"file_location\":\"https://www.mediafire.com/file/gz7v10igg120704/Theres_Nobody_Else_NCS_Release.mp3/file\",\"file_name\":\"Theres nobody else\"}" +
+
+
+
+          "]}" +
+          "";
+}
